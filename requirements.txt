@@ -1,0 +1,7 @@
+# Frontend Web Interface
+streamlit>=1.35.0
+requests>=2.32.0
+
+# AWS SDK for local testing and development
+boto3>=1.34.0
+botocore>=1.34.0
